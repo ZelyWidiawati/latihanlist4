@@ -16,3 +16,4 @@
  9.Lalu Program akan mengoutputkan semua data yang telah di olah.
  
  10.Program selesai.
+![](flowcart.png)
