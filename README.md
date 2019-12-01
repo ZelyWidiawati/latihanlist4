@@ -14,6 +14,9 @@
  8.Untuk menampilkan nilai Akhir, program akan mengambil nilai rata rata dari nilai tugas,uts,uas dengan cara menambahkan data-data sesuai dengan index dari variabel "i". tugas10.3+uts10.35+uas1*0.35
  
  9.Lalu Program akan mengoutputkan semua data yang telah di olah.
- 
  10.Program selesai.
+ 
+ 
+                                        **FLOWCHART LATIHAN 4**
+
 ![](flowcart.png)
